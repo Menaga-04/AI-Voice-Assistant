@@ -1,0 +1,49 @@
+PROJECT TITLE:
+AI-Based Voice Assistant Using Python
+
+1. PROJECT DESCRIPTION
+
+This project is a Python-based voice assistant that listens to user commands through a microphone, converts speech into text, processes the commands, performs the requested tasks, and responds through voice output.
+
+The voice assistant uses SpeechRecognition for speech-to-text conversion and pyttsx3 for text-to-speech responses. It can perform basic tasks such as telling the current time and date, answering simple questions, searching information on Google, opening websites, and launching desktop applications such as Notepad and Calculator.
+
+The main objective of this project is to develop a simple, user-friendly voice-controlled assistant that reduces manual interaction with a computer and demonstrates the practical use of Artificial Intelligence concepts, speech recognition, and automation.
+
+2. OBJECTIVES
+
+1. To develop a voice-controlled assistant using Python.
+2. To recognize user commands through a microphone.
+3. To convert spoken commands into text.
+4. To process commands and perform the requested actions.
+5. To provide spoken responses using text-to-speech technology.
+6. To automate basic computer tasks.
+
+3. KEY FEATURES
+
+1. Voice input through a microphone.
+2. Speech-to-text conversion.
+3. Text-to-speech responses.
+4. Current time and date announcements.
+5. Basic answers about Python, Artificial Intelligence, and Machine Learning.
+6. Google search.
+7. Opening YouTube, Google, and Wikipedia.
+8. Launching Notepad and Calculator.
+9. Voice command to stop the assistant.
+
+4. TECHNOLOGIES USED
+
+1. Python 3.12
+2. SpeechRecognition
+3. PyAudio
+4. pyttsx3
+5. Visual Studio Code
+
+5. PROJECT FILES
+
+1. voice_assistant.py - Main program.
+2. free_brain.py - Command processing and task execution.
+3. requirements.txt - Required Python libraries.
+
+6. CONCLUSION
+
+This project demonstrates how speech recognition, command processing, text-to-speech technology, and computer automation can be integrated to develop a basic AI-based voice assistant. It provides practical experience in Python programming and the development of voice-controlled applications.
